@@ -1,0 +1,16 @@
+h1{
+    background-color: mediumaquamarine;
+    color: white;
+    display: inline;
+}
+ul li {
+    display: inline;
+}
+navbar li{
+    display: inline;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
